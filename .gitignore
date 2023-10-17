@@ -1,0 +1,5 @@
+# Ignore dist files
+/dist/
+
+# Ignore all .cache files
+*.cache
